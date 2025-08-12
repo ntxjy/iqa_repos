@@ -1,0 +1,21 @@
+[submodule "third_party/backbones/iTPN"]
+	path = third_party/backbones/iTPN
+	url = https://github.com/sunsmarterjie/iTPN.git
+[submodule "third_party/backbones/VMamba"]
+	path = third_party/backbones/VMamba
+	url = https://github.com/MzeroMiko/VMamba.git
+[submodule "third_party/backbones/Vim"]
+	path = third_party/backbones/Vim
+	url = https://github.com/hustvl/Vim.git
+[submodule "third_party/backbones/2DMamba"]
+	path = third_party/backbones/2DMamba
+	url = https://github.com/AtlasAnalyticsLab/2DMamba.git
+[submodule "third_party/backbones/pykan"]
+	path = third_party/backbones/pykan
+	url = https://github.com/KindXiaoming/pykan.git
+[submodule "third_party/backbones/timm"]
+	path = third_party/backbones/timm
+	url = https://github.com/huggingface/pytorch-image-models.git
+[submodule "third_party/backbones/ConvNeXt-V2"]
+	path = third_party/backbones/ConvNeXt-V2
+	url = https://github.com/facebookresearch/ConvNeXt-V2.git
